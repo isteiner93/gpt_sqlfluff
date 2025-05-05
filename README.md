@@ -1,5 +1,5 @@
 # GPT_SQLFluff
-###*This Project is specific to my work environment and rather serves as an insipiration than a ready-to-use product. Replicating it locally requires some adjustments*###
+### *This Project is specific to my work environment and rather serves as an insipiration than a ready-to-use product. Replicating it locally requires some adjustments* 
 
 This script utilizes SQLFluff and OpenAI's GPT-3 to implement suggested linting and formatting for selected SQL code (`slido-dbt-transformation` table).
 
